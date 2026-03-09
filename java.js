@@ -1,1 +1,0 @@
-importScripts   ('https://cdn.jsdelivr.net/npm/@babel/standalone/babel.min.js');
